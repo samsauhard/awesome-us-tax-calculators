@@ -266,7 +266,7 @@ Pay the lesser of:
 - [IRS Form 1040-ES](https://www.irs.gov/pub/irs-pdf/f1040es.pdf) — Estimated Tax for Individuals.
 - [CanYouCalculate](https://canyoucalculate.com) — 50+ free online calculators & converters across 14 categories, incl. a federal income tax estimator and salary/hourly conversion calculators. No signup required.
 
---- — 50+ free online calculators & converters across 14 categories, incl. a federal income tax estimator and salary/hourly conversion calculators. No signup required.
+---
 
 ## Payroll & Salary Calculators
 
